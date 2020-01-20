@@ -46,8 +46,8 @@ div#maincontents {
 div#schedule {
         width: 100%;
 	height: 40%;
-	margin-top: 50px;
-        margin-bottom: 50px;
+	margin-top: px;
+        margin-bottom: px;
         background-color:#3399FF;
         
 }
@@ -61,8 +61,8 @@ div#whatsNew {
 }
 
 div#twitter {
-        width: 450;
-	height: 600;
+        width: 100%;
+	height: 100%;
 	margin-top: 50px;
         margin-bottom: 50px;
 }
