@@ -1,0 +1,114 @@
+﻿@charset "utf-8";
+* {
+        margin: 0;
+        padding: 0;
+}
+body {
+
+        text-align: center;
+}
+
+div#pageWrapper {
+ width: 100%;
+height: auto;
+        margin-right: 500;
+        margin-left: ;
+        padding-top: 10px;
+        padding-right: 10px;
+       padding-bottom: 10px;
+        padding-left: 10px;
+        text-align: left;
+	
+}
+
+div#header {
+     href="http://unix.josai.ac.jp/2019e/";
+        height:100px;
+	width: 100%;
+        background-image: url(image/header.png);
+	background-size:100% auto;
+}
+
+div#navi {
+        float: left;
+        width: 234px;
+        height: 29px;
+        margin-top: 10px;
+        margin-left: 8px;
+        background-color:#008000;
+       
+}
+
+
+div#maincontents {
+
+}
+div#schedule {
+        width: 100%;
+	height: 40%;
+	margin-top: 50px;
+        margin-bottom: 50px;
+        background-color:#3399FF;
+        
+}
+
+div#whatsNew {
+	width: 100%;
+	height: 100%;
+	margin-top: 50px;
+        margin-bottom: 50px;
+       // background-color:#3399FF;
+}
+
+div#twitter {
+        width: 450;
+	height: 600;
+	margin-top: 50px;
+        margin-bottom: 50px;
+}
+
+div#footer {
+     href="http://unix.josai.ac.jp/2019e/";
+        height:100px;
+	width: 100%;
+        background-image: url(image/header.png);
+	background-size:100% 100%;
+}
+
+.btn-circle-stitch {
+  display: inline-block;
+  text-decoration: none;
+  background: #87befd;
+  color: #FFF;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  border-radius: 50%;
+  text-align: center;
+  overflow: hidden;
+  box-shadow: 0px 0px 0px 5px #87befd;
+  border: dashed 1px #FFF;
+  transition: .4s;
+}
+
+.btn-circle-stitch:hover {
+  background: #668ad8;
+  box-shadow: 0px 0px 0px 5px #668ad8;
+}
+
+.btn-right-radius {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 1.0em 0.5em;
+  text-decoration: none;
+  color: #00BCD4;
+  background: #ECECEC;
+  border-radius: 0 15px 15px 0;
+  transition: .4s;
+}
+
+.btn-right-radius:hover {
+  background: #636363;
+}
+{
