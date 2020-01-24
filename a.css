@@ -25,7 +25,7 @@ div#header {
      href="http://unix.josai.ac.jp/2019e/";
         height:100px;
 	width: 100%;
-        background-image: url(image/header.png);
+        background-image: url(image/header.jpg);
 	background-size:100% auto;
 }
 
@@ -71,7 +71,7 @@ div#footer {
      href="http://unix.josai.ac.jp/2019e/";
         height:100px;
 	width: 100%;
-        background-image: url(image/header.png);
+        background-image: url(image/header.jpg);
 	background-size:100% 100%;
 }
 
